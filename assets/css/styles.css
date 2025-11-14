@@ -29,7 +29,32 @@ body, h1, h2, h3, p, ul {
     font-size: 68px;
     margin-bottom: 25px;
   }
-  
+
+
+ /* Select the first <ul> immediately after an <h1> */
+h1 + ul {
+  display: flex;                /* horizontal layout */
+  justify-content: center;      /* center the items */
+  list-style: none;             /* remove default bullets */
+  padding: 0;
+  margin: 10px 0;               /* optional spacing */
+}
+
+/* Style the list items */
+h1 + ul li {
+  position: relative;           /* needed for separator */
+  margin: 0 10px;               /* spacing between items */
+}
+
+/* Add black dot separators between items except the last one */
+h1 + ul li:not(:last-child)::after {
+  content: "•";                 /* black dot */
+  position: absolute;
+  right: -10px;                 /* offset between items */
+  color: black;
+}
+
+
   /* Section content */
   .content h2 {
     margin-top: 30px;

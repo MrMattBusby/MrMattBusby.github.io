@@ -1,6 +1,5 @@
 ---
 title: "Résumé"
-subtitle: "[Matt.Busby@live.com](mailto:matt.busby@live.com) | [(813) 480-8419](tel:+18134808419) | [in/MrMattBusby](https://www.linkedin.com/in/MrMattBusby/) | [Home](https://MrMattBusby.com) | [MrMattBusby.github.io](MrMattBusby@github.io) | Tampa, FL | Active Clearance"
 author: @MrMattBusby
 date: 2025-11-13
 layout: default
@@ -9,9 +8,15 @@ layout: default
 Warning:
     WORK-IN-PROGRESS 2025-11-13 !!
 
+subtitle: "[Matt.Busby@live.com](mailto:matt.busby@live.com) | [(813) 480-8419](tel:+18134808419) | [in/MrMattBusby](https://www.linkedin.com/in/MrMattBusby/) | [Home](https://MrMattBusby.com) | [MrMattBusby.github.io](MrMattBusby@github.io) | Tampa, FL | Active Clearance"
+
 # Matt Busby
 
-📧✉️ [Matt.Busby@live.com](mailto:matt.busby@live.com) | 📞 [(813) 480-8419](tel:+18134808419) | 🔗 [in/MrMattBusby](https://www.linkedin.com/in/MrMattBusby/) | 📍 Tampa, FL | **Active Clearance**
+- ✉️ [Matt.Busby@live.com](mailto:matt.busby@live.com)
+- 📞 [(813) 480-8419](tel:+18134808419)
+- 🔗 [in/MrMattBusby](https://www.linkedin.com/in/MrMattBusby/)
+- 📍 Tampa, FL
+- **Active Clearance**
 
 Accomplished Technical Project Manager, Lead Systems Engineer, and Principal Software Developer with deep expertise in DoD Aerospace Modeling & Simulation (M&S). I lead cross-functional engineering teams through the full system lifecycle of requirements analysis, architecture, design, development, integration, verification, documentation, delivery, and sustainment of mission-ready, high-fidelity training and simulation systems.
 
