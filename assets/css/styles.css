@@ -82,5 +82,10 @@ h1 + ul li:not(:last-child)::after {
       margin: 0;
       padding: 0;
     }
+  a {
+      color: inherit;        /* use the surrounding text color */
+      text-decoration: none; /* remove underlines */
+      pointer-events: none;  /* optional: disable link clicks in print */
+    }
   }
   

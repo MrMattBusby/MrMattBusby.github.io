@@ -5,8 +5,8 @@ date: 2025-11-13
 layout: default
 ---
 
-Warning:
-    WORK-IN-PROGRESS 2025-11-13 !!
+> [!WARNING]
+> WORK-IN-PROGRESS 2025-11-13
 
 subtitle: "[Matt.Busby@live.com](mailto:matt.busby@live.com) | [(813) 480-8419](tel:+18134808419) | [in/MrMattBusby](https://www.linkedin.com/in/MrMattBusby/) | [Home](https://MrMattBusby.com) | [MrMattBusby.github.io](MrMattBusby@github.io) | Tampa, FL | Active Clearance"
 
@@ -20,7 +20,7 @@ subtitle: "[Matt.Busby@live.com](mailto:matt.busby@live.com) | [(813) 480-8419](
 
 Accomplished Technical Project Manager, Lead Systems Engineer, and Principal Software Developer with deep expertise in DoD Aerospace Modeling & Simulation (M&S). I lead cross-functional engineering teams through the full system lifecycle of requirements analysis, architecture, design, development, integration, verification, documentation, delivery, and sustainment of mission-ready, high-fidelity training and simulation systems.
 
-## Skills (Short-list)
+## Skills
 
 ### Frameworks & Applications
 
@@ -29,7 +29,7 @@ Accomplished Technical Project Manager, Lead Systems Engineer, and Principal Sof
 - JIRA, Confluence, DrawIO
 - Microsoft Visual Studio (VS), Project, O365, SharePoint, Azure VMs
 - Wireshark, PuTTY
-- No Magic Cameo Systems Modeler Architect (academic)
+- No Magic Cameo Systems Modeler Architect (*academic*)
 - DOORS (*working*)
 
 ### Programming Languages & OS
