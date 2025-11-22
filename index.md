@@ -1,6 +1,6 @@
 ---
-title: "Résumé"
-author: "@MrMattBusby"
+title: "Resume"
+author: "Busby-Matt"
 categories: [resume]
 tags: [github.io, pages, jekyll, markdown]
 layout: default
