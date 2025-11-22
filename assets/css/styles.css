@@ -216,6 +216,11 @@ h1 + ul + p {
         page-break-inside: avoid;
     }
 
+    /* Hack: Fix italicized text that might extend beyond bounds */
+    em, i, .italic {
+        padding-right: 3px; /* Italics can extend slightly */
+    }
+
     /* Do not underline abbr tags in PDF */
     abbr {
         text-decoration: none;
