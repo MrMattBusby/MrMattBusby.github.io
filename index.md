@@ -72,7 +72,8 @@ Apply 17+ years of technical leadership expertise to drive innovation in complex
 
 ### Product Owner & Platform Integration Lead *2022-2024*
 
-**Boeing Intelligence & Analytics**, subsidiary to Boeing Co.  |  Annapolis Junction, MD *(Remote)*  
+#### Boeing Intelligence & Analytics, subsidiary to Boeing Co.  |  *Annapolis Junction, MD (Remote)*  
+
 *Internal Research & Development (IR&D) High-Fidelity Digital Twin (HFDT) team SAFe Agile Product Owner and software engineering integration lead for 777X avionics systems. Principal-level position.*
 
 - Led IR&D integration team as Product Owner utilizing JIRA and SAFe Agile methodologies to drive product development and team velocity
