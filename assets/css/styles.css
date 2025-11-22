@@ -58,8 +58,13 @@ p {
 }
 
 /* Paragraph immediately after Contact List = Objective/Summary */
-h1 + p {
-    margin: 0.75em 1.5em 0 1.5em;
+h2 + p {
+    margin: 0.25em 1.5em 0 1.5em;
+    text-align: justify;
+}
+
+/* Experience intros */
+h4 + p {
     text-align: justify;
 }
 
@@ -72,6 +77,7 @@ li {
     font-size: 90%;
 }
 
+/* Education */
 blockquote {
     padding: 0;
     margin: 0 1.5em;
