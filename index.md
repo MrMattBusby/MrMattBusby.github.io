@@ -15,7 +15,9 @@ layout: default
 - 🔒 Active Security Clearance
 {: .flatlist }
 
-Accomplished **Technical Project Manager**, **Lead Systems Engineer**, and **Principal Software Developer** & **Product Owner** with extensive expertise in Aerospace Modeling & Simulation (M&S). Proven leader of cross-functional engineering teams through complete system lifecycles—from requirements analysis and architecture through design, development, integration, verification, documentation, delivery, and sustainment of mission-ready, high-fidelity training and simulation systems.
+## Objective
+
+Apply 17+ years of technical leadership expertise to drive innovation in complex systems engineering, product development, and technical program management. Seeking to leverage proven success in systems architecture, cross-functional team leadership, and full lifecycle delivery to advance next-generation solutions and organizational objectives.
 
 ## Core Competencies
 
