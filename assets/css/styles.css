@@ -1,0 +1,236 @@
+body {
+    color: #000000;
+    background: #EEEEEE;
+    /* font: 1.1em "Times New Roman"; */
+    font: 1.0em "Times New Roman";
+    line-height: 1.125;
+    margin: 40px 0;
+}
+
+.content {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 40px 60px;
+    background: #fffff3d1;
+    border: 1px solid #CCCCCC;
+    box-shadow: 2px 2px 4px #AAAAAA;
+    -webkit-box-shadow: 2px 2px 4px #AAAAAA;
+}
+
+h1 {
+    /* text-transform: uppercase; */
+    text-align: center;
+    /* font-size: 200%; */
+    font-size: 190%;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    border-bottom: 1px solid #000000;
+    text-transform: uppercase;
+    font-size: 130%;
+    margin: 1em 0 0 0;
+    padding: 0;
+}
+
+h3 {
+    font-size: 115%;
+    text-transform: uppercase;
+    margin: 0.7em 0 0.3em 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+h4 {
+    font-size: 100%;
+    margin: 0.25em 0 0.1em 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+}
+
+p {
+    margin: 0 0 0.5em 0;
+    padding: 0;
+}
+
+ul {
+    padding: 0;
+    margin: -0.5em 1.5em 0 1.5em;
+}
+    
+li {
+    font-size: 90%;
+}
+
+blockquote {
+    padding: 0;
+    margin: 0 1.5em;
+}
+
+blockquote > p {
+    padding: 0;
+    margin: 0;
+}
+    
+code {
+    background-color: #e0e0e0;
+    color: #212121;
+    font-family: "SFMono-Regular","Consolas","Liberation Mono","Menlo",monospace;
+    font-size: 10pt;
+    border-radius: 0.4rem;
+    padding: .2rem .4rem;
+}
+
+/* Flat Lists, e.g. Contact List */
+.flatlist {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.flatlist > li {
+    display: inline;
+    white-space: pre;
+    list-style-type: none;
+}
+
+.flatlist > li:after {
+    /*content: "  \2022  ";*/
+    content: "  |  ";
+}
+
+.flatlist > li:last-child::after {
+    content: "";
+}
+
+.twocollist {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* two equal columns */
+    gap: 0em 2.0rem; /* row-gap and column-gap */
+    list-style-type: disc; /* restore bullets */
+    padding-left: 0em; /* standard UL padding for bullets */
+}
+
+.twocollist > li {
+    break-inside: auto;   /* don't interfere with grid */
+    page-break-inside: avoid;
+}
+
+/* Paragraph immediately after Contact List = Summary */
+h1 + ul + p {
+    margin: 0.75em 1.5em 0 1.5em;
+    text-align: justify;
+}
+
+@media screen and (max-width: 800px) {
+    body {
+        font-size: 1.0em;            /* modest boost, not 16pt */
+        margin: 0;
+        padding: 0;
+        background: #EEEEEE;
+    }
+
+    .content {
+        margin: 0;
+        padding: 1em;
+        max-width: none;            /* remove 800px limit */
+        width: 94%;
+        background: #fffff3d1;      /* preserve your background */
+        border: 1px solid #CCCCCC;  /* keep border */
+        box-shadow: 2px 2px 4px #AAAAAA; /* keep subtle shadow */
+    }
+
+    .twocollist {
+        columns: 1;                 /* collapse to single column */
+    }
+
+    h1, h2, h3, h4 {
+        text-align: center;         /* readability */
+    }
+
+    ul {
+        margin: 0 0.5em;            /* tighten margins */
+    }
+
+    .flatlist > li {
+        display: block;             /* allow vertical stacking if too wide */
+        margin: 0.2em 0;
+    }
+
+    .flatlist > li:after {
+        content: "";                /* remove dot divider */
+    }
+}
+
+/* Print */
+@media print {
+
+    /* Try to fit all in 2pgs, adjust these... */
+
+    /* html, body {
+        height: 200vh;
+        overflow: hidden;
+    } */
+
+    body {
+        font-size: 9.6pt;
+        line-height: 1.0;
+        margin: 0;
+        padding: 0;
+        background: none;
+    }
+
+    /* Get rid of cool paper effect */
+    .content {
+        margin: 0;
+        padding: 0;
+        max-width: none;
+        width: 100%;
+        border: 0px;
+        background: none;
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+
+    ul {
+        padding: 0;
+        margin: -0.3em 1.5em 0 1.5em;
+    }
+
+    /* Force 2 columns */
+    .twocollist {
+        columns: 2 !important;
+        -webkit-columns: 2 !important;
+        column-gap: 1.5rem !important;
+        -webkit-column-gap: 1.5rem !important;
+        column-fill: auto !important;
+    }
+
+    .twocollist > li {
+        break-inside: avoid;
+        page-break-inside: avoid;
+    }
+
+    /* Do not underline abbr tags in PDF */
+    abbr {
+        text-decoration: none;
+        font-variant: none;
+    }
+    /* Make links black in PDF */
+    /* Move this outside the print block to apply this in HTML too */
+    a, a:link, a:visited, a:hover {
+        color: #000000;
+        text-decoration: underline;
+    }
+}
+@page {
+    /* Change margins and paper size of PDF */
+    /* https://developer.mozilla.org/en-US/docs/Web/CSS/@page */
+    size: letter;
+    /*margin: 0.5in 0.8in;*/
+    margin: 0.4in 0.6in;
+}
