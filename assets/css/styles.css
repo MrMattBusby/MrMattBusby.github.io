@@ -176,20 +176,22 @@ h1 + ul + p {
         overflow: hidden;
     } */
 
+    body, content {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        max-width: none;
+        overflow: visible !important;
+    }
+
     body {
         font-size: 9.6pt;
         line-height: 1.0;
-        margin: 0;
-        padding: 0;
         background: none;
     }
 
     /* Get rid of cool paper effect */
     .content {
-        margin: 0;
-        padding: 0;
-        max-width: none;
-        width: 100%;
         border: 0px;
         background: none;
         box-shadow: none;
