@@ -19,42 +19,6 @@ layout: default
 
 Apply 17+ years of technical leadership expertise to drive innovation in complex systems engineering, product development, and technical program management. Seeking to leverage proven success in systems architecture, cross-functional team leadership, and full lifecycle delivery to advance next-generation solutions and organizational objectives.
 
-## Core Competencies
-
-### Technical Frameworks & Tools
-
-- GitLab CI/CD, Plan/Roadmap, Kanban/Scrum
-- Git, SVN
-- JIRA, Confluence, DrawIO
-- Wireshark, PuTTY
-- Visual Studio/Code, MS Project, Office 365
-- SharePoint, Azure Cloud/Virtual Machines
-- No Magic Cameo Systems Modeler Architect\*
-- DOORS\*
-{: .twocollist }
-
-### Programming & Operating Systems
-
-- C/C++
-- Python, SciPy
-- Bash Script/Make
-- PowerShell
-- CI/CD YAML
-- Windows 10 Pro SHB, RHEL 9
-- HTML5/CSS3/JavaScript\*
-- Fortran/Ada/C#/Rust\*
-{: .twocollist }
-
-### Standards & Specifications
-
-- ARINC-610, ARINC-429
-- MIL-STD-1553
-- RS-422, RS-485
-- IEEE-12207, IEEE-15288, IEEE-802
-- ISO-9001, Quality Management Systems
-- DO-178C\*
-{: .twocollist }
-
 ## Professional Experience
 
 ### Lead/Senior Project Engineer *2024-2025*
@@ -103,41 +67,67 @@ Apply 17+ years of technical leadership expertise to drive innovation in complex
 - Scripted 200+ realistic approach, taxi, and takeoff entity paths using Python/Bash, auto-generated from real-world satellite landmark data
 - Maintained Aircraft-Common Equipment (ACE) interoperability and concurrent avionics development for 7+ trainers across CONUS facilities
 
-## Technical Strengths
+## Technical Proficiencies
 
-### Software & Systems Engineering
+### Development & Engineering
 
+- C/C++, Python, SciPy, Bash Script/Make, PowerShell, CI/CD YAML, HTML5/CSS3/JavaScript\*, Fortran/Ada/C#/Rust\*
 - Software Development Lifecycle (SDLC) Engineering & Models
 - Requirements Engineering, Testing, Verification & Validation, Evaluation
 - Continuous Integration/Continuous Deployment (CI/CD), Configuration Management/Data Management (CM/DM)
-- Technical Documentation & Training Development
-- INCOSE, Systems Engineering Body of Knowledge (SEBoK), Certified Systems Engineering Professional (CSEP)\*
 - Model-Based Systems Engineering (MBSE), Object Management Group (OMG) Systems Modeling Language (SysML)\*
-- AI Large Language Model Architecture, Training & Integrations\*
+- Git, GitLab, SVN, JIRA, Confluence, DrawIO
 {: .twocollist }
 
-### Product & Project Management
+### Tools & Platforms
+
+- Visual Studio/Code, MS Project, Office 365, Azure Cloud/Virtual Machines, SharePoint
+- Wireshark, PuTTY
+- Windows 10 Pro SHB, RHEL 9
+- No Magic Cameo Systems Modeler Architect\*, DOORS\*
+{: .twocollist }
+
+### Standards & Protocols
+
+- ARINC-610, ARINC-429, MIL-STD-1553
+- RS-422, RS-485, IEEE-12207, IEEE-15288, IEEE-802
+- ISO-9001, Quality Management Systems, DO-178C\*
+{: .twocollist }
+
+## Leadership & Management
+
+### Project & Program Management
 
 - SAFe Agile Product Owner/Project Manager, Scrum, Kanban
 - V-Model, Waterfall Project Management
 - Statement of Work (SOW), CDRL Statement of Requirements Document (SRD) management
-- Conducting Internal & External Design Reviews
-- Data Item Description (DID) Data Items: Requirements Traceability Verification Matrix (RTVM), Interface Control Document (ICD)
-- System Requirements Review (SRR), Preliminary Design Review (PDR), Critical Design Review (CDR), Test Readiness Review (TRR), Program Management Review (PMR), Program Management Inspection (PMI), Technical Interchange Meeting (TIM), Integrated Product Teams (IPT)
-- Technical Proposals, Itemized Bill of Materials (IBOM), Supplemental Statement of Work (SSOW)
-- Managing Stakeholder Expectations & Requirements
-- Risk Management & Mitigation
-- Analysis & Collaboration with Hardware/Production Teams
+- Technical Reviews: System Requirements Review (SRR), Preliminary Design Review (PDR), Critical Design Review (CDR), Test Readiness Review (TRR), Program Management Review (PMR), Program Management Inspection (PMI), Technical Interchange Meeting (TIM), Integrated Product Teams (IPT)
+- Risk Management & Mitigation, Technical Proposals, Itemized Bill of Materials (IBOM), Supplemental Statement of Work (SSOW)
+- Managing Stakeholder Expectations & Requirements, Analysis & Collaboration with Hardware/Production Teams
 {: .twocollist }
 
-### Simulators & Training Systems
+### Systems Engineering Leadership
 
-- 6-Degrees of Freedom (DOF) Level-D/6, Operational Flight Trainer (OFT)/Advanced Procedures Trainer (APT), Virtual Reality/Mixed Reality Training Systems
-- Application Programming Interfaces (API), Interfaces, Common Image Generator Interface (CIGI), Instructor Operator Station (IOS), Host Systems
+- Full lifecycle engineering (requirements through sustainment)
+- Cross-functional team leadership (7+ team leads, 40+ engineers)
+- Technical Documentation & Training Development
+- Data Item Description (DID) Data Items: Requirements Traceability Verification Matrix (RTVM), Interface Control Document (ICD)
+- Conducting Internal & External Design Reviews
+- INCOSE, Systems Engineering Body of Knowledge (SEBoK), Certified Systems Engineering Professional (CSEP)\*
+- Integration & interoperability
+{: .twocollist }
+
+### Complex Systems Delivery
+
+- High-fidelity simulation systems & digital twins
+- Hardware-in-the-Loop (HIL) & Software-in-the-Loop (SIL) systems
+- Full Flight Simulators, 6-Degrees of Freedom (DOF) Level-D/6 devices
+- Operational Flight Trainer (OFT)/Advanced Procedures Trainer (APT)
+- Virtual Reality/Mixed Reality Training Systems
+- Multi-platform system integration & concurrent development
+- Application Programming Interfaces (API), Common Image Generator Interface (CIGI), Instructor Operator Station (IOS), Host Systems
 - Qualification Test Guide (QTG), Universal Automated Fidelity Testing (UAFT)
-- Architecting Full Flight Simulators, Software-in-the-Loop (SIL) Systems
-- B-1, B-52, E-2D/C, C-2, HC-144, C-130, CH-52, HH-60 platforms
-- High-Fidelity Digital Twins
+- AI Large Language Model Architecture, Training & Integrations\*
 {: .twocollist }
 
 ## Education
@@ -156,7 +146,7 @@ Apply 17+ years of technical leadership expertise to drive innovation in complex
 > University of Florida (UF)  
 > *Specialization: Microprocessors/Circuits & C++/Python/VHDL Software*
 
-### Professional Certifications & Memberships
+## Professional Certifications & Memberships
 
 - Scaled Agile SAFe Product Owner/Product Manager (PO/PM) 5.1 Certification -- *3-day course, November 2022*
 - CompTIA Security+ Certification & Continuing Education -- *Active, May 2020*
