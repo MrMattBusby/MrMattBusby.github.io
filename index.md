@@ -1,7 +1,8 @@
 ---
-title: "Résumé Busby"
+title: "Résumé"
 author: "@MrMattBusby"
-date: "2025-11-13"
+categories: [resume]
+tags: [github.io, pages, jekyll, markdown]
 layout: default
 ---
 
