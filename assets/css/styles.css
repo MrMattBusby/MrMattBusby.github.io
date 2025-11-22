@@ -176,18 +176,12 @@ h1 + ul + p {
         overflow: hidden;
     } */
 
-    body, .content {
-        margin: 0;
-        padding: 0;
-        width: 100%;
-        max-width: none;
-        overflow: visible !important;
-    }
-
     body {
         font-size: 9.6pt;
         line-height: 1.0;
         background: none;
+        margin: 0;
+        padding: 0;
     }
 
     /* Get rid of cool paper effect */
@@ -196,6 +190,11 @@ h1 + ul + p {
         background: none;
         box-shadow: none;
         -webkit-box-shadow: none;
+        margin: 0;
+        padding: 0;
+        max-width: none;
+        width: 100%;
+        overflow: visible !important;
     }
 
     ul {
