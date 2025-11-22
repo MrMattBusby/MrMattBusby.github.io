@@ -182,6 +182,7 @@ h1 + ul + p {
         background: none;
         margin: 0;
         padding: 0;
+        overflow: visible !important;
     }
 
     /* Get rid of cool paper effect */
@@ -194,7 +195,6 @@ h1 + ul + p {
         padding: 0;
         max-width: none;
         width: 100%;
-        overflow: visible !important;
     }
 
     ul {
