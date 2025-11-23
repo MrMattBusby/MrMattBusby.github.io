@@ -187,10 +187,6 @@ blockquote > p {
         width: 100%;
     }
 
-    ul {
-        margin: -0.1em 1.5em 0 1.5em;
-    }
-
     /* Force 2 columns */
     /* REMOVEME? */
     .twocollist {
@@ -202,6 +198,7 @@ blockquote > p {
     }
 
     .twocollist > li {
+        font-size: 95%;
         break-inside: avoid;
         page-break-inside: avoid;
     }
@@ -227,5 +224,6 @@ blockquote > p {
 @page {
     /* Change margins and paper size of PDF */
     size: letter;
-    margin: 0.5in 0.5in;
+    /* margin: 0.5in 0.5in; */
+    margin: 0.44in 0.42in 0.4in 0.42in;
 }
