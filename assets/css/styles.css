@@ -227,5 +227,5 @@ blockquote > p {
 @page {
     /* Change margins and paper size of PDF */
     size: letter;
-    margin: 0.5in 0.8in;
+    margin: 0.4in 0.6in;
 }
