@@ -198,7 +198,6 @@ blockquote > p {
     }
 
     .twocollist > li {
-        font-size: 92.5%;
         break-inside: avoid;
         page-break-inside: avoid;
     }
