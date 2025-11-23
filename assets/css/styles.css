@@ -167,8 +167,8 @@ blockquote > p {
 
     /* Try to fit all in 2pgs, adjust these... */
     body {
-        font-size: 10pt;
-        line-height: 1.0;
+        font-size: 10.25pt;
+        line-height: 1.05;
         background: none;
         margin: 0;
         padding: 0;
@@ -227,5 +227,5 @@ blockquote > p {
 @page {
     /* Change margins and paper size of PDF */
     size: letter;
-    margin: 0.4in 0.6in;
+    margin: 0.5in 0.5in;
 }
