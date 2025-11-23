@@ -38,7 +38,7 @@ h2 {
 h3 {
     font-size: 115%;
     text-transform: uppercase;
-    margin: 0.6em 0 0.3em 0;
+    margin: 0.4em 0 0.1em 0;
     padding: 0;
     display: flex;
     justify-content: space-between;
@@ -167,8 +167,8 @@ blockquote > p {
 
     /* Try to fit all in 2pgs, adjust these... */
     body {
-        font-size: 11pt;
-        line-height: 1.05;
+        font-size: 10pt;
+        line-height: 1.0;
         background: none;
         margin: 0;
         padding: 0;
@@ -188,8 +188,7 @@ blockquote > p {
     }
 
     ul {
-        padding: 0;
-        margin: -0.3em 1.5em 0 1.5em;
+        margin: -0.1em 1.5em 0 1.5em;
     }
 
     /* Force 2 columns */
