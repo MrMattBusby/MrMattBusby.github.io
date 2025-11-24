@@ -36,12 +36,12 @@ Apply 17+ years of technical leadership expertise to drive innovation in complex
 ### Product Owner & Platform Integration Lead *2022-2024*
 
 **Boeing Intelligence & Analytics**, subsidiary to Boeing Co.  |  Annapolis Junction, MD *(Remote)*  
-*Internal Research & Development (IR&D) High-Fidelity Digital Twin (HFDT) team SAFe Agile Product Owner and software engineering integration lead for 777X avionics systems. Principal-level position.*
+*Internal Research & Development (IR&D) application Platform-as-a-Service (PaaS) High-Fidelity Digital Twin (HFDT) team SAFe Agile Product Owner and software engineering integration lead for 777X avionics systems. Principal-level position.*
 
 - Led IR&D integration team as Product Owner utilizing JIRA and SAFe Agile methodologies to drive product development and team velocity
 - Streamlined and automated build and deployment systems achieving 300% performance improvement through WiX installer frameworks and CI/CD pipelines across Azure cloud infrastructure supporting multi-OS architectures
 - Developed comprehensive documentation library in Confluence covering build procedures, system architecture, release management, and deployment protocols
-- Architected and implemented low-latency, queued, logging, multi-threaded serial communication interface to NAVAID database/server supporting multiple concurrent clients
+- Architected and implemented low-latency, queued, logged, multi-threaded serial communication interface to NAVAID database/server supporting multiple concurrent clients
 
 ### Project Engineer *2017-2022*
 
