@@ -17,7 +17,7 @@ layout: default
 
 ## Objective
 
-Apply 17 years of **technical leadership** expertise to drive innovation in complex **systems engineering**, **product development**, and **digital engineering**. Seeking to leverage proven success in systems architecture, cross-functional team management, and full lifecycle delivery to advance next-generation solutions and organizational objectives.
+Apply 17 years of **technical leadership** expertise to drive innovation in complex **systems & software engineering**, **product development**, and **digital engineering**. Seeking to leverage proven success in systems architecture, cross-functional team management, and full lifecycle delivery to advance next-generation solutions and organizational objectives.
 
 ## Professional Experience
 
@@ -155,4 +155,4 @@ Apply 17 years of **technical leadership** expertise to drive innovation in comp
 - Scaled Agile SAFe Product Owner/Product Manager (PO/PM) 5.1 -- *3-day course, November 2022*
 - CompTIA Security+ Certification & Continuing Education -- *Active, May 2020*
 - Professional Memberships: INCOSE, PMI, IEEE, NDIA, NTSA, I/ITSEC-Events -- *Rolling*
-- Security Clearance -- *Active, Continuing Evaluation since January 2022*
+- Security Clearance -- *Active, inquire, Continuing Evaluation since January 2022*
