@@ -28,7 +28,7 @@ Apply 17 years of **technical leadership** expertise to drive innovation in comp
 
 - Led 7 interdisciplinary engineering teams, managing 30+ engineers across multiple concurrent projects
 - Oversaw virtualization design and implementation efforts for 6 Operational Flight Programs (OFP) achieving 100% software milestone targets
-- Devised AI/LLM automation strategies, technical debt tracking, and enterprise vision boards
+- Devised AI/LLM automation strategies, technical debt proposals, and enterprise vision boards
 - Provided technical overview and management of 6k+ page design package with over 10k+ requirements and 2k+ drawings
 - Authored, maintained, and reviewed 10+ engineering Contract Data Requirements Lists (CDRL) including Requirements Traceability Matrix (RTM), Interface Control Document/Interface Design Document (ICD/IDD), System/Subsystem Specification (SSS/SRS), System/Software Design Description (SSDD/SDD), and custom templates
 - Developed comprehensive Systems Engineering Management Plan (SEMP) Git strategy, version control mechanisms, CDRL flowcharts, hook structures, network topology diagrams, data management protocols, and software catalogues
@@ -101,13 +101,13 @@ Apply 17 years of **technical leadership** expertise to drive innovation in comp
 
 ### Project & Program Management
 
-- Vision, Strategy, SWOT, Risk Management
 - SAFe Agile Product Owner/Project Manager, Scrum, Kanban
-- V-Model, Waterfall Project Management
+- Vision, Strategy, SWOT, Risk Management
+- V-Model, Waterfall Project Processes
 - Statement of Work (SOW), CDRL Statement of Requirements Document (SRD) management
 - Managing Stakeholder Expectations & Requirements, Analysis & Collaboration with Hardware/Production Teams
 - Technical Reviews: SRR, PDR, CDR, TRR, PMR, PMI, TIM, IPT
-- Risk Management & Mitigation, Technical Proposals, Itemized Bill of Materials (IBOM), Supplemental Statement of Work (SSOW)
+- Technical Proposals, Bill of Materials (IBOM), Subcontractor Statement of Work (SSOW)
 {: .twocollist }
 
 ### Systems Engineering Leadership
@@ -116,14 +116,14 @@ Apply 17 years of **technical leadership** expertise to drive innovation in comp
 - Cross-functional team leadership (7+ team leads, 40+ engineers)
 - Conducting Internal & External Design Reviews
 - Technical Documentation & Training Development
-- Data Item Description (DID) Data Items: Requirements Traceability Verification Matrix (RTVM), Interface Control Document (ICD)
+- Data Items: Requirements Traceability Verification Matrix (RTVM), Interface Control Document (ICD), etc.
 - INCOSE, Systems Engineering Body of Knowledge (SEBoK), Certified Systems Engineering Professional (CSEP\*)
 {: .twocollist }
 
 ### Complex Systems Delivery
 
 - **High-fidelity simulation systems & digital twins**
-- Hardware-in-the-Loop (HIL) & Software-in-the-Loop (SIL)
+- Hardware-in-the-Loop (HIL), System Integration Labs (SIL)
 - **Full Flight Simulators**, 6-Degrees of Freedom (DOF) Level-D/6 devices
 - Operational Flight Trainer (OFT)/Advanced Procedures Trainer (APT)
 - Virtual Reality/**Mixed-Reality Training Systems**
@@ -141,18 +141,18 @@ Apply 17 years of **technical leadership** expertise to drive innovation in comp
 #### Master of Science in Systems Engineering (MSSE) *2024*
 
 > Embry-Riddle Aeronautical University (ERAU), Worldwide  
-> *Concentration: Technical Route -- Requirements Engineering, Architecture, Models, MBSE/SysML, Human Factors*
+> *Concentration: Technical Route -- Requirements Engineering, Architecture, MBSE/SysML, Human Factors*
 
 ### Undergraduate Degree
 
 #### Bachelor of Science in Electrical Engineering (BSEE) *2008*
 
 > University of Florida (UF)  
-> *Specialization: Microprocessors/Circuits & C++/Python/VHDL Software*
+> *Specialization: Microprocessors, C++/Python/VHDL Software*
 
 ## Professional Certifications & Memberships
 
-- Scaled Agile SAFe Product Owner/Product Manager (PO/PM) 5.1 Certification -- *3-day course, November 2022*
+- Scaled Agile SAFe Product Owner/Product Manager (PO/PM) 5.1 -- *3-day course, November 2022*
 - CompTIA Security+ Certification & Continuing Education -- *Active, May 2020*
 - Professional Memberships: INCOSE, PMI, IEEE, NDIA, NTSA, I/ITSEC-Events -- *Rolling*
 - Security Clearance -- *Active, Continuing Evaluation since January 2022*
