@@ -106,7 +106,7 @@ Apply 17 years of **technical leadership** expertise to drive innovation in comp
 - V-Model, Waterfall Project Management
 - Statement of Work (SOW), CDRL Statement of Requirements Document (SRD) management
 - Managing Stakeholder Expectations & Requirements, Analysis & Collaboration with Hardware/Production Teams
-- Technical Reviews: System Requirements Review (SRR), Preliminary Design Review (PDR), Critical Design Review (CDR), Test Readiness Review (TRR), Program Management Review (PMR), Program Management Inspection (PMI), Technical Interchange Meeting (TIM), Integrated Product Teams (IPT)
+- Technical Reviews: SRR, PDR, CDR, TRR, PMR, PMI, TIM, IPT
 - Risk Management & Mitigation, Technical Proposals, Itemized Bill of Materials (IBOM), Supplemental Statement of Work (SSOW)
 {: .twocollist }
 
@@ -123,16 +123,16 @@ Apply 17 years of **technical leadership** expertise to drive innovation in comp
 ### Complex Systems Delivery
 
 - **High-fidelity simulation systems & digital twins**
-- Hardware-in-the-Loop (HIL) & Software-in-the-Loop (SIL) systems
+- Hardware-in-the-Loop (HIL) & Software-in-the-Loop (SIL)
 - **Full Flight Simulators**, 6-Degrees of Freedom (DOF) Level-D/6 devices
 - Operational Flight Trainer (OFT)/Advanced Procedures Trainer (APT)
 - Virtual Reality/**Mixed-Reality Training Systems**
 - Multi-platform system integration & concurrent development
-- Qualification Test Guide (QTG), Universal Automated Fidelity Testing (UAFT)
+- **Platform and Software as a Service (PaaS/SaaS)**\*
 - Application Programming Interfaces (API)
+- Qualification Test Guide (QTG), Universal Automated Fidelity Testing (UAFT)
 - **AI Large Language Model Training, Automations, & Integrations**\*
 {: .twocollist }
-- **Platform and Software as a Service (PaaS/SaaS)**\*
 
 ## Education
 
