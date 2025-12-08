@@ -17,9 +17,9 @@ layout: default
 
 ## Objective
 
-Apply 17 years of **technical leadership & expertise** to drive innovation in **systems & software engineering**, **product development**, and **digital & AI engineering**. Seeking to leverage proven success in multi-domain Modeling & Simulation, cross-functional management, and full lifecycle delivery to advance next-generation solutions.
+Apply 17 years of **technical leadership & expertise** to drive innovation in **systems & software engineering**, **product development, and digital & AI engineering**. Seeking to leverage proven success in multi-domain Modeling & Simulation, cross-functional management, and full lifecycle delivery to advance next-generation solutions.
 
-## Professional Experience
+## Professional Experience & Accomplishments
 
 ### Senior Project Engineer *2024-2025*
 
@@ -35,7 +35,7 @@ Apply 17 years of **technical leadership & expertise** to drive innovation in **
 - Developed comprehensive Systems Engineering Management Plan (SEMP) Git strategy, version control mechanisms, CDRL flowcharts, hook structures, network topology diagrams, data management protocols, and software catalogues
 - Created extensive JIRA project governance including rules, automations, 4 custom workflows, Kanban boards, and program roadmaps
 
-### Product Owner & S/W Platform Integration Lead *2022-2024*
+### Product Owner & SW Platform Integration Lead *2022-2024*
 
 **Boeing Intelligence & Analytics**, subsidiary to Boeing Co.  |  Annapolis Junction, MD *(Remote)*  
 *Internal Research & Development (IR&D) application **Platform-as-a-Service (PaaS) High-Fidelity Digital Twin (HFDT)** team SAFe Agile Product Owner and principal-level software engineering integration lead for 777X avionics systems.*
