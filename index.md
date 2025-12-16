@@ -11,19 +11,19 @@ layout: default
 - ✉️ [Matt.Busby@live.com](mailto:matt.busby@live.com)
 - 📞 [(813) 480-8419](tel:+18134808419)
 - 🔗 [in/MrMattBusby](https://www.linkedin.com/in/MrMattBusby/)
-- 📍 Tampa, FL
+- 📍 Tampa Bay, FL
 - 🔒 Active Security Clearance
 {: .flatlist }
 
 ## Objective
 
-Apply 17 years of **technical leadership & expertise** to drive innovation in **systems & software engineering**, **product development, and digital & AI engineering**. Seeking to leverage proven success in multi-domain Modeling & Simulation, cross-functional management, and full lifecycle delivery to advance next-generation solutions.
+Apply over a decade and a half of **technical leadership & expertise** to drive innovation in **systems & software engineering**, **product development, and digital & AI engineering**. Seeking to leverage proven success in multi-domain Modeling & Simulation, cross-functional management, and full lifecycle delivery to advance next-generation solutions.
 
 ## Professional Experience & Accomplishments
 
 ### Senior Project Engineer *2024-2025*
 
-**Aero Simulation, Inc.**  |  Tampa, FL  
+**Aero Simulation, Inc.**  |  Tampa, FL *(Hybrid)*
 *B-52 Mission Training System technical lead engineer on **reconfigurable mixed-reality Level-7 training system**, and 2IC on multiple previous awards for new Flight Training Device (FTD) devices, Aircrew Training Devices (ATD), modification and upgrade Engineering Change Proposals (ECP) in avionics suite, cybersecurity, and technical upgrades. Multi-program avionics systems engineering SME.*
 
 - Led 7 interdisciplinary engineering teams, managing 30+ engineers across multiple concurrent projects
@@ -57,7 +57,7 @@ Apply 17 years of **technical leadership & expertise** to drive innovation in **
 - Executed multiple Aircraft-to-Flight Simulator concurrency upgrades in SIL environments, satisfying 1k+ traceable requirements
 - Initiated critical Quality Management System (QMS) and Cybersecurity Maturity Model Certification (CMMC) improvements to Lessons Learned and Safety protocols
 
-### Software Systems Engineer, Avionics Systems *2008-2017*
+### Software Systems Engineer, in Avionics, Tools, & Libraries *~10yrs*
 
 **Aero Simulation, Inc.**  |  Tampa, FL  
 *Systems engineer, software engineer, and developer/modeler for **10+ platform's avionics systems simulation and stimulation** (aircraft and navigation systems, aircraft-common avionics integration). Entry through junior, mid, senior, and principal-level.*
@@ -140,14 +140,14 @@ Apply 17 years of **technical leadership & expertise** to drive innovation in **
 
 ### Graduate Degree
 
-#### Master of Science in Systems Engineering (MSSE) *2024*
+#### Master of Science in Systems Engineering (MSSE)
 
 > Embry-Riddle Aeronautical University (ERAU), Worldwide  
 > *Concentration: Technical Route -- Requirements Engineering, Architecture, MBSE/SysML, Human Factors*
 
 ### Undergraduate Degree
 
-#### Bachelor of Science in Electrical Engineering (BSEE) *2008*
+#### Bachelor of Science in Electrical Engineering (BSEE)
 
 > University of Florida (UF)  
 > *Specialization: Microprocessors, C++/Python/VHDL Software*
