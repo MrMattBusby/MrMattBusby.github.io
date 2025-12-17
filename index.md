@@ -57,10 +57,10 @@ Apply over a decade and a half of **technical leadership & expertise** to drive 
 - Executed multiple Aircraft-to-Flight Simulator concurrency upgrades in SIL environments, satisfying 1k+ traceable requirements
 - Initiated critical Quality Management System (QMS) and Cybersecurity Maturity Model Certification (CMMC) improvements to Lessons Learned and Safety protocols
 
-### Software Systems Engineer, in Avionics, Tools, & Libraries *~10yrs*
+### Software Developer & Systems Engineer *>10yrs*
 
 **Aero Simulation, Inc.**  |  Tampa, FL  
-*Systems engineer, software engineer, and developer/modeler for **10+ platform's avionics systems simulation and stimulation** (aircraft and navigation systems, aircraft-common avionics integration). Entry through junior, mid, senior, and principal-level.*
+*Systems engineer LSE, software engineer, and developer/modeler for **10+ platform avionics systems simulation and stimulation** (aircraft and navigation systems, tools/libraries, aircraft-common avionics integration). Entry through junior, mid, senior, and principal-level.*
 
 - Developed C/C++ simulation models for 20+ avionics systems including OFP/FMS, CDUs, ARC-210, Pitot-Static Air-Data System, Enhanced Ground Proximity Warning System (EGPWS), StormScope, Blue Force Tracker, Instrument Landing System (ILS), and Automated Carrier Landing System (ACLS)
 - Designed comprehensive serial communication libraries (MIL-STD-1553, ARINC-429), debugger tools, FIFO implementations, and atmospheric simulation libraries in C and Python, deployed company-wide
